@@ -15,7 +15,7 @@ enumeration styles, glossary entry styles, hyphenations, etc.).
 
 [👀 See what it looks like with the PDF preview](Preview.pdf)
 
-[Recent examples of theses](https://researchportal.unamur.be/fr/studentTheses/?type=%2Fdk%2Fatira%2Fpure%2Fstudentthesis%2Fstudentthesistypes%2Fstudentthesis%2Fdoc%2Fdsc&nofollow=true&organisationIds=d8ff1383-00ed-4e70-843b-b440c7627cd1&year=2024&year=2025)
+[Recent examples of theses](https://researchportal.unamur.be/fr/studentTheses/?type=%2Fdk%2Fatira%2Fpure%2Fstudentthesis%2Fstudentthesistypes%2Fstudentthesis%2Fdoc%2Fdsc&nofollow=true&organisationIds=d8ff1383-00ed-4e70-843b-b440c7627cd1&year=2024&year=2025&year=2026&year=2027&year=2028). These theses were published in previous years and can serve as examples. Please note that everyone is free to use the approach they wish, so some theses may not have used this model.
 
 ## Disclaimer
 
